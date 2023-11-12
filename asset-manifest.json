@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/verify-password/static/css/main.05766abf.css",
+    "main.css": "/verify-password/static/css/main.1b6a2ef9.css",
     "main.js": "/verify-password/static/js/main.1cbd81e8.js",
     "index.html": "/verify-password/index.html",
-    "main.05766abf.css.map": "/verify-password/static/css/main.05766abf.css.map",
+    "main.1b6a2ef9.css.map": "/verify-password/static/css/main.1b6a2ef9.css.map",
     "main.1cbd81e8.js.map": "/verify-password/static/js/main.1cbd81e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.05766abf.css",
+    "static/css/main.1b6a2ef9.css",
     "static/js/main.1cbd81e8.js"
   ]
 }
