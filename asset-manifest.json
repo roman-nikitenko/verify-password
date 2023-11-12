@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/verify-password/static/css/main.05766abf.css",
+    "main.js": "/verify-password/static/js/main.1cbd81e8.js",
+    "index.html": "/verify-password/index.html",
+    "main.05766abf.css.map": "/verify-password/static/css/main.05766abf.css.map",
+    "main.1cbd81e8.js.map": "/verify-password/static/js/main.1cbd81e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05766abf.css",
+    "static/js/main.1cbd81e8.js"
+  ]
+}
