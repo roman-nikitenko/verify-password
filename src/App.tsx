@@ -29,7 +29,7 @@ function App() {
     setShort((lowerValue.length < 8));
 
     setEasy(letter || symbol || number);
-    setMedium((letter && symbol) || (letter && number) || (symbol && number) );
+    setMedium((letter && symbol) || (letter && number) || (symbol && number));
     setStrong(letter && symbol && number);
   }
 
